@@ -64,3 +64,14 @@ yarn examples:start
 在开发环境下，本项目配置了跨域解决方案，所以在直接运行项目并不会遇到跨域问题。
 
 生产环境的跨域问题可以参考 `应用部署篇` 的方案。
+
+# 安装相应的全局包
++-- @angular/cli@11.0.6
++-- create-next-app@10.0.0
++-- create-react-app@3.4.1
++-- node-pre-gyp@0.15.0
++-- npm@6.14.6
++-- nrm@1.2.1
++-- ts-node@9.0.0
++-- typescript@4.0.3
+`-- yarn@1.22.5
